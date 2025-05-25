@@ -20,14 +20,14 @@ I am interested in IT technologies and various techniques. I am also learning HT
 
 - 📱 Phone
   - Brand - Samsung
-  - Model - SM-G990B/DS
-  - Name - Galaxy S21 FE 5G
-  - Snapdragon 888
-  - 6 GB RAM LPDDR5
+  - Model - SM-S901U/DS
+  - Name - Galaxy S22
+  - Snapdragon 8 Gen 1
+  - 8 GB RAM LPDDR5
   - 128 GB
-  - 6.4" Screen 120 Hz AMOLED
-  - Back Camera - 12 MP + 13 MP + 8 MP
-  - Front Camera - 32 MP
+  - 6.1" Screen 120 Hz AMOLED
+  - Back Camera - 50 MP + 12 MP + 10 MP
+  - Front Camera - 12 MP
 
 - 🔗 Links:
   - [YouTube](https://www.youtube.com/@OS-Tester "OST - Operating System Tester")
