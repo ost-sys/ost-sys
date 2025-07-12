@@ -19,15 +19,15 @@ I am interested in IT technologies and various techniques. I am also learning HT
   - Monitor - 75 Hz Philips 247ELH FHD
 
 - 📱 Phone
-  - Brand - Samsung
-  - Model - SM-S901U/DS
-  - Name - Galaxy S22
-  - Snapdragon 8 Gen 1
-  - 8 GB RAM LPDDR5
+  - Brand - Google
+  - Model - oriole
+  - Name - Pixel 6
+  - Tensor G1
+  - 8 GB RAM
   - 128 GB
-  - 6.1" Screen 120 Hz AMOLED
-  - Back Camera - 50 MP + 12 MP + 10 MP
-  - Front Camera - 12 MP
+  - 6.4" Screen 90 Hz AMOLED
+  - Main Camera - 50 MP + 12 MP
+  - Selfie Camera - 8 MP
 
 - 🔗 Links:
   - [YouTube](https://www.youtube.com/@OS-Tester "OST - Operating System Tester")
